@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A glorious victory obtained by Sr. Thomas Fairfax, June, the 14. 1645. Shewing, how he routed the Kings army, and took the ordnance, cariages, bag, and baggage; the Kings standard, and divers colours; with many horse, armes, officers and common souldiers: between Naseby, and Clipston, in the county of Northampton. Also, the manner of the fight. Collonel Cromwels pursuing the victory; and which vvay those that escaped were fled. How Major Generall Skippon was unfortunately hurt: and on what grounds it is thought Prince Rupert is taken.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86038</idno>
+            <idno type="STC">Wing G870</idno>
+            <idno type="STC">Thomason E288_21</idno>
+            <idno type="STC">ESTC R200105</idno>
+            <idno type="EEBO-CITATION">99860909</idno>
+            <idno type="PROQUEST">99860909</idno>
+            <idno type="VID">113036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113036)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E288[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A glorious victory obtained by Sr. Thomas Fairfax, June, the 14. 1645. Shewing, how he routed the Kings army, and took the ordnance, cariages, bag, and baggage; the Kings standard, and divers colours; with many horse, armes, officers and common souldiers: between Naseby, and Clipston, in the county of Northampton. Also, the manner of the fight. Collonel Cromwels pursuing the victory; and which vvay those that escaped were fled. How Major Generall Skippon was unfortunately hurt: and on what grounds it is thought Prince Rupert is taken.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wood.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "June 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naseby (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:113036:1"/>
+            <pb facs="tcp:113036:1"/>
+            <head>A TRUE RELATION OF A Great Victorie obtained by Sir THOMAS FAIYFAX, Againſt the Kings Forces, (on Saturday the 14. of <hi>June,</hi> between <hi>Naesby</hi> and <hi>Clipſton</hi> in <hi>Northamptonſhire.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>OR the glorious Victory that it hath pleaſed God to give unto our Armie under the command of that Heroick Generall, Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax,</hi> deſerves to be taken notice of in in an extraordinarie manner: For as wee ought to conſider of it as a gracious returne of our Prayers and Faſtings, ſo are we hereby deep<g ref="char:EOLhyphen"/>ly obliged to bleſſe God for it, by giving him the honour in the humble acknowledgement of our
+<pb facs="tcp:113036:2"/> thankfulneſſe, unto him that is the giver of all Victories, which that we may the better do it, will not bee amiſſe to take notice how the Enemy had plotted to deſtroy us.</p>
+            <p>When Leiceſter was taken (which before is ſaid not to be ve<g ref="char:EOLhyphen"/>ry ſtrong) the Enemy were ſo in love with the ſcituation, that they caſt with themſelves how they ſhall gain time to re<g ref="char:EOLhyphen"/>fortifie it, as they had to win it. Vpon which <hi>Haſtings</hi> Viſcount Lough<g ref="char:EOLhyphen"/>borough <hi>(alias</hi> Robcarrier) is made the Governour thereof; who preſently falles to re-edifie the VValles, eſpecially a place called the New work Yet leſt Coll. <hi>Cromwell,</hi> which they heard grew numerous, with other of our forces, ſhould fall upon them before all things were ſetled in a defenſive way (though part of His Majeſties powers faced Derby, and pretended more, and ſo to go forward) they diverted their courſe; and as if they inten<g ref="char:EOLhyphen"/>ded to draw a Line from Newark to Oxford (and ſtop our Com<g ref="char:EOLhyphen"/>merce with divers Counties) they return into Northampton<g ref="char:EOLhyphen"/>ſhire, ſteal thirty thouſand Sheep, and eight thouſand Head of other Cattle, which they carried into Oxford.</p>
+            <p>In their countercourſe they leave none of the fatteſt ſoyles, for they come by Walcot Langhton, Harborough, Rugby, and ſo diſpierſing themſelves in Northamptonſhire, take up their Head quarters at Deintrey in the Road to Coventrey, many skirmiſhes have been betwixt Northampton forces and Partees of the Kings, and priſoners taken on both ſides: Here they ſpoil and deſtroy both Corn and Hay, ſaying, they will make our Gariſon ſeek further off for their proviſion; and boaſt how many fat Cattle they have made ſtop of for comming to London.</p>
+            <p>Preſently upon this, the Kings Forces did face North<g ref="char:EOLhyphen"/>hampton, but at their drawing away, a partee of our Horſe fol<g ref="char:EOLhyphen"/>lowed them, vvho met vvith another of the Enemies, charged them, ſlew ſome, and took tvventy Horſe and divers priſoners, vvhich they brought to <hi>Northampton,</hi> not receiving any loſſe at all on our ſide.</p>
+            <pb facs="tcp:113036:2"/>
+            <p> At this time, Sir Thomas Fairfax was at Stoney-Stratford, in the County of Buckingham, and ſent a Partee under the com<g ref="char:EOLhyphen"/>mand of Collonel Butler to Toſsiter, and within a day or two removed his head quarters thither, and ſo got in part, betvvixt the Kings Army and Oxford, and began to gain upon the King<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quarters, the Enemy ſtill pretending that they vvould give Bat<g ref="char:EOLhyphen"/>tle, and to that purpoſe made a flouriſh (as heretofore they uſed to do) on Thurſday night and Friday morning, ſending avvay before their carriages tovvards Leiceſter.</p>
+            <p>Nobe Sir Thomas finding that the Enemy made no haſte to ſight, ſuſpected that they were ſtealing away, and having his whole Army in a readineſſe, and a great part drawn into a Body, ſent out divers Scouts, and at length intelligence was brought, that they were drawn away, and were marching again towards Leiceſter, having gotten much ground before our Army.</p>
+            <p>Vpon this, Sir Thomas forthvvith perſued them, and by a hard march forced them to fight; As you may ſee by this en<g ref="char:EOLhyphen"/>ſuing Letter.</p>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>He Kings Armie endeavouring to get away again towards</p>
+               <p>Leiceſter, we marched very hard after them, and this Mor<g ref="char:EOLhyphen"/>ning the Enemy perceiving that we were not farte from their Rear, and finding we purſued with ſuch ſpeed, that if they made any ſtay (as needs they muſt, to refreſh their men and Horſe) we ſhould be ready to fall on their quarters before they came to Leiceſter, about nine of the clock in the morning we found them in Battalia, within four or five miles of Harborough<g ref="char:punc">▪</g> betweene
+<pb facs="tcp:113036:3"/> 
+                  <hi>Naesby</hi> and <hi>Clipſton,</hi> upon which we drew up our Forces neere <hi>Naesby</hi> Warren, and planted our Ord<g ref="char:EOLhyphen"/>nance, and when our army came to view the ene<g ref="char:EOLhyphen"/>my, they gave a great ſhout; and about ten of the clock the Ordnance on both ſides began to play, and our armie being divided into ſeverall Brigades, di<g ref="char:EOLhyphen"/>vers partees were drawne out; and after the Scouts had skirmiſhed a while, whole partees became enga<g ref="char:EOLhyphen"/>ged, the Oidnance ſtill playing, and the ſucceſſe doubfull; but between elaven and twelve of the clock, (Lieutenant Generall <hi>Crrmwell</hi> being joyned with us) Sir <hi>Thomas Fairfax</hi> commanded the right Wing, and Lieutenant Generall <hi>Cromwell</hi> thé léft, who charged the enemie through and through, rou<g ref="char:EOLhyphen"/>ted the Horſe, killed and took a great number of them, and being gallantly ſeconded by our Foot, at length we beat the enemie from ſome of their Ord<g ref="char:EOLhyphen"/>nance, tooke moſt of their Carriages, and put them them to flight.</p>
+               <p>The fight was extream hot for the ſpace of halfe an houre or more, and wee tooke many Colours of Horſe and Foot, among which the Kings Standard is ſuppoſed to bee one, it having the portracture of a Lion with a golden Crowne.</p>
+               <p>We have alſo taken ſome hundreds of Officers pri<g ref="char:EOLhyphen"/>ſoners, amongſt which are many perſons of quali<g ref="char:EOLhyphen"/>aie, beſides a great number of common Souldiers,
+<pb facs="tcp:113036:3"/> with Horſe and ſtore of armes and baggage, the particulars as yet I cannot relate, neither have I had time to view the Corps that are ſlaine upon the place, but the generall rvmor is two thouſand kil<g ref="char:EOLhyphen"/>led and taken,. But let this ſuffice out friends, that it hath pleaſed God to give us a glorious victory. We hear ſome of the Kings Forees are taken towards <hi>Litchfield,</hi> but it is though to the greateſt part of thoſe that are left, are flying towards <hi>Newark,</hi> whither its ſaid the King himſelfe is going. Lieutenant Gene<g ref="char:EOLhyphen"/>rall <hi>Cromwell</hi> with a gallant partee of Horſe, is in the purſuit; and ſome of our Scouts have juſt now brought intelligence that Prince <hi>Rupert</hi> is taken.</p>
+               <p>Since the writing of this letter, it is reported, that Major Generall <hi>Skippon</hi> hath received ſome hurt, but it is hoped he will ſoon recover. Our Generall was in ſome danger, hazarding his own perſon, but bleſ<g ref="char:EOLhyphen"/>ſed be God came off well.</p>
+               <closer>
+                  <salute>Sir,</salute> 
+                  <signed>I am yours, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. W.</signed>
+                  <dateline>Dated in the Field <date>Saturday the 14. of Iune<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 1645.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="document">
+            <pb facs="tcp:113036:4"/>
+            <opener>
+               <dateline>
+                  <date>June 15. 1645.</date>
+               </dateline>
+            </opener>
+            <p>IT is deſired, that all Miniſters in <hi>London,</hi> the Liber<g ref="char:EOLhyphen"/>ties, and within the Lines of Communication, do this Sabbath day, bleſſe God that hath been pleaſed to heare our Prayers, in the behalf of our Army, and hath given the Parliament a Glorious Victorie; killed many, taken many priſoners, the Standard, with the Ramping Lyon in gold, with the Crown upon it taken, and Collonel <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> perſuing. The fight began on Saturday the 14<hi rend="sup">th</hi>. of Iune, about 12. of the clocke at noon, and held a terrible ſight foor about half an hour. And its reported, in the per<g ref="char:EOLhyphen"/>ſuit Prince <hi>Rupert</hi> is taken.</p>
+            <closer>
+               <signed>Thomas Atkins, Mayor.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
